@@ -1,0 +1,18 @@
+{
+  "name": "mynodeapp",
+  "version": "1.0.0",
+  "description": "my node app connecting to mongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "keywords": [
+    "none"
+  ],
+  "author": "Arijit Das",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.5.0",
+    "prompt-sync": "^4.2.0"
+  }
+}
